@@ -1,3 +1,5 @@
 # Ignore notebooks checkpoints
 
 *.ipynb_checkpoints
+MNIST/
+PetImages/
