@@ -1,0 +1,10 @@
+joblib
+jupyterlab
+matplotlib
+numpy
+pandas
+pmdarima
+seaborn
+scikit-learn
+statsmodels
+unidecode
