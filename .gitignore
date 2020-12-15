@@ -3,3 +3,24 @@
 *.ipynb_checkpoints
 MNIST/
 PetImages/
+
+#IDE
+.vscode/settings.json
+.idea/*
+**/__pycache__/
+.vscode/*
+workspace.code-workspace
+
+# DATA
+*.xls
+*.xlsx
+*.csv
+*.parquet
+*.pkl
+*.pickle
+*.jpg
+*.txt
+*.pt
+*.gz
+*.png
+
