@@ -9,16 +9,6 @@ services:
       - ./:/home/src/
     ports:
       - "8889:8889"
-    environment:
-      AWS_DB_HOST: 
-      AWS_DB_USERNAME: 
-      AWS_DB_NAME: 
-      AWS_DB_PORT: 
-      AWS_DB_PASSWORD: 
-      AWS_ACCESS_KEY_ID: 
-      AWS_SECRET_ACCESS_KEY: 
-      BO_DB_NAME:
-      STUDY_DIR:
     networks:
       - localbound
 networks:
