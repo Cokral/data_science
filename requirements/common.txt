@@ -7,4 +7,5 @@ pmdarima
 seaborn
 scikit-learn
 statsmodels
+tqdm
 unidecode
